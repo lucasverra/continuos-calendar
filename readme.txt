@@ -1,6 +1,6 @@
 Final Group Project for the 3 month , 100 hrs Fullstack Coderhouse Course.
 
-The app : an clutter free web calendar app that expose in a single view the next 3 month of activity. Full next 52 w are rendered for easy scrolling. App is online @ http://contcal-lverra.rhcloud.com/ (hosted on Openshift, Redhat's PaaS, alternative to heroku) 
+The app : an clutter free web calendar app that expose in a single view the next 3 month of activity. Full next 52 w are rendered for easy scrolling. App is online @ http://contcal-lverra.rhcloud.com/ (up to 30 sec of load time, hosted on Openshift, Redhat's PaaS, alternative to heroku) 
 
 Techonoly applied : 
 App : Node.Js
